@@ -1,22 +1,30 @@
 ![AppsDevs Banner](Documentation/banner.png)
 
-# Lesson 1.3 My Name Card
+# Lesson 1.5 My Name Card
+## Topic 1: Get Started! Your First iOS App
 
 ## Our Goal
 
-The objective of this tutorial is to introduce to you fundamental of UIImageView and UILabel.
+The objective of this tutorial is to create an launch screen.
 
 ## What you will create
 
-We’re going to make a Name Card app which you will place your photo of yourselves, your name, and job title.
+We’re going to make a launch screen into your Name Card app which you will place your photo of yourselves, your name, and job title.
+
+## Your Challenge
+* Your challenge is to duplicate the design below into LaunchScreen.storyboard
+
+![challenge](Documentation/challenge.png)
 
 
-## What you will learn
+
+## What you will learn in Topic 1
 
 * How to create add image into your application.
 * Understand x1, x2 and x3 of image.
 * Design and add an App Icon.
 * Running the App on your iPhone.
+* Create a launch screen
 
 ## Donation and Support
 
